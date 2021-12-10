@@ -1,6 +1,6 @@
 # Hierarchical Graph Autoencoders
 
-This repository contains an implementation of a hierarchical graph autoencoder for molecular representation learning in PyTorch and DGL. I have written full tutorial and explanation on the architecture and design decisions which can be found here: [https://noncomputable.github.io/molecules](https://noncomputable.github.io/molecules)
+This repository contains an implementation of a hierarchical graph autoencoder for molecular representation learning in PyTorch and DGL. I have written a detailed tutorial and explanation on the architecture and design decisions which can be found here: [https://noncomputable.github.io/molecules](https://noncomputable.github.io/molecules)
 
 The model and preprocessing pipeline are quite complex and many aspects of the implementation are non-obvious, so I have annotated the code with detailed explanations for various modeling and implementation decisions. The high-level structure is as follows:
 * **core** - Contains all models, scripts, and utilities
