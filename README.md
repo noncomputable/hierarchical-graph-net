@@ -19,5 +19,5 @@ The model and preprocessing pipeline are quite complex and many aspects of the i
 	* **zinc** - Molecule data extracted from the ZINC compound database
 		* **raw** - Contains lists of SMILES strings samples from ZINC
 			* *mols.txt* - Contains a list of SMILES strings to be processed and used for training, testing, and validation
-		* **processed** - Contains outputs of preprocessing.
-* *notebook.ipynb* - Annotated notebook illustrating how to do dataset construction, training, and testing with this project.
+		* **processed** - Contains outputs of preprocessing
+* *notebook.ipynb* - Annotated notebook illustrating how to do dataset construction, training, and testing with this project
